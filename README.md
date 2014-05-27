@@ -3,7 +3,7 @@ ubuntu-lamp-lighter
 
 Ubuntu LAMP Developer Setup
 
-A very simple set of scripts to create Apache (apach2) virtual hosts on a Ubuntu 14.04 LTS Desktop LAMP install. You may run these commans as a standard user. Within the script, there are commands that run as sudo.
+A very simple set of scripts to create Apache (apach2) virtual hosts on a Ubuntu 14.04 LTS Desktop LAMP install. You may run these commands as a standard user. Within the script, there are commands that run as sudo.
 
 Usage
 1) Make sure all files are owned by your user and set to executable (chmod +x)
