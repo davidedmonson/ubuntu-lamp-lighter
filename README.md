@@ -1,6 +1,8 @@
 ubuntu-lamp-lighter
 ===================
 
+Originally adopted from: http://www.commandlineidiot.com/2007/plate-up-bash-script-for-apache-vhost-setup/
+
 Ubuntu LAMP Developer Setup
 
 A very simple set of scripts to create Apache (apach2) virtual hosts on a Ubuntu 14.04 LTS Desktop LAMP install. You may run these commands as a standard user. Within the script, there are commands that run as sudo.
